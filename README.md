@@ -1,1 +1,3 @@
-# tarefa-carro
+1 - Escreva um programa em Java que permita representar um carro. Um carro possui placa, cor, modelo, velocidade atual, velocidade máxima, quantidade de combustível e quantidade de combustível máxima. Um carro pode acelerar e freiar, mudando a velocidade em uma determinada quantidade que equivale a 10% da força aplicada no pedal. Ao acelarar, também é consumido combustível, que equivale a 5% da força aplicada no pedal. É também possível abastecer o carro com uma certa quantidade de combustível. Deve ser criado um objeto do tipo carro, e chamados os métodos que representam as funcionalidades.
+
+Comandos para antes de fazer o commit: git config --local user.name "SEU NOME" git config --local user.email "SEU EMAIL"
